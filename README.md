@@ -1,10 +1,10 @@
-# <p color = "#3498db"> TypeScript</p>
+# <p color = "#3498db">TypeScript</p>
 
 <p color="greenyellow">Based on TypeScript</p>
 
 <p color = "crimson" font-size = 10px>To run in terminal => </p>
 
-tsc script.ts -> generate a script.js file\
+<p color = "snow">tsc script.ts -> generate a script.js file</p>\
 \
 node script.js -> final o/p
 
