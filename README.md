@@ -2,7 +2,7 @@
 
 <p color="greenyellow">Based on TypeScript</p>
 
-# <p color = "crimson" font-size = 10px>To run in terminal => </p>
+<p color = "crimson" font-size = 10px>To run in terminal => </p>
 
 tsc script.ts -> generate a script.js file\
 \
