@@ -4,8 +4,6 @@
 
 <p color = "crimson" font-size = 10px>To run in terminal => </p>
 
-<p color = "snow">tsc script.ts -> generate a script.js file</p>\
-\
-node script.js -> final o/p
+<p color = "greenyellow">tsc script.ts -> generate a script.js file <br> node script.js -> final o/p</p>
 
 <!-- <div><h1>Using<span color=yellow> JavaScript</span> & <span color=cyan> TypeScript</span></h1></div> -->
