@@ -1,6 +1,6 @@
 # <p color = "#3498db"> TypeScript</p>
 
-<p color="green">Based on TypeScript</p>
+<p color="greenyellow">Based on TypeScript</p>
 
 # To run in terminal =>
 
