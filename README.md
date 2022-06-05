@@ -1,4 +1,4 @@
-# TypeScript
+# color = "blue" TypeScript
 
 <p color="green">Based on TypeScript</p>
 
